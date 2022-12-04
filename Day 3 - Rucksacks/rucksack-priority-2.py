@@ -1,4 +1,3 @@
-import math
 import string
 from itertools import islice
 values = dict()
